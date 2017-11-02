@@ -13,9 +13,9 @@ Manual de instalación:
 
 3- Descarga del paquete de cloudware-studio
 
-composer require cloudware-studio/admin:dev-master 
+	composer require cloudware-studio/admin:dev-master 
 
-    probar si no funciona con :dev-stable
+probar si no funciona con :dev-stable
 
 4- Modificar archivo composer.json
 
