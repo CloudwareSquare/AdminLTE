@@ -1,20 +1,20 @@
 {
-    "name": "cloudware-studio/admin",
+    "name": "iot-engineering/admin",
     "type": "application",
     "description": "admin LTE for Laravel",
-    "homepage": "http://www.cloudware-studio.com",
+    "homepage": "http://www.iot-eng.com",
     "license": "MIT",
     "keywords": ["laravel", "demo", "AdminLTE", "admin", "free"],
     "authors": [
         {
-            "name": "miky",
-            "email": "miguelangel@cloudware-studio.com"
+            "name": "MiguelAngel",
+            "email": "info@iot-eng.com"
         }
     ],
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Cloudware\\Admin\\": "vendor/cloudware-studio/admin/src"
+            "IotEngineering\\Admin\\": "vendor/iot-engineering/admin/src"
         }
     },
     "require": {
